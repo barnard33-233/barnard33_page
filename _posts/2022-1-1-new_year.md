@@ -52,7 +52,7 @@ comments: false
 
 贴一个成就，傍晚发现的，应该很难被刷新了。
 
-<img src="../images/2022new_year-1.jpg" width = 30% height = 30% div align=center />
+![](../images/2022new_year-1.jpg)
 
 
 
