@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 新年快乐
-date: 2022-1-1
+date: 2022-01-01
 Author: tang_
 categories:
 tags: [Jottings]
