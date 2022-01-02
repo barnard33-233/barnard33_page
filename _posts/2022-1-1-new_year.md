@@ -88,7 +88,7 @@ comments: false
 
 已经四点多了，那么最后的最后，
 
-<div align=center> 新年快乐。</div>
+新年快乐。
 
 
 *一些后记*
